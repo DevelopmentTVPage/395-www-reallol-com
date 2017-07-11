@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Reallol"
+baseURL = "https:\/\/www.reallol.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "reallol.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
